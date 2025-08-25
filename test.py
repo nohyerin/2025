@@ -70,4 +70,4 @@ def diagnose_personal_color(answers):
 # Streamlit 앱
 st.set_page_config(page_title="퍼스널컬러 진단", page_icon="🎨")
 
-st.title("🎨 퍼스널컬러 진단 앱"
+st.title("🎨 퍼스널컬러 진단 앱")
